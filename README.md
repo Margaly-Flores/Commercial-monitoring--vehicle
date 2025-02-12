@@ -14,4 +14,8 @@ Este proyecto tiene como objetivo desarrollar un dashboard interactivo en Power 
 	Determinación de indicadores de rendimiento como:
 
 Total de ventas totales:
-$$\text{Total de Ventas} = \sum \text{Fact\_Ventas[Precio Venta sin IGV]}$$
+## Fórmula de Total de Ventas
+
+$$
+\text{Total de Ventas} = \sum \text{Fact\_Ventas[Precio Venta sin IGV]}
+$$
