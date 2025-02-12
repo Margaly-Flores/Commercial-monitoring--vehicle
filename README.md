@@ -19,3 +19,5 @@ Total de ventas totales:
 $$
 \text{Total de Ventas} = \sum \text{Fact\_Ventas[Precio Venta sin IGV]}
 $$
+
+![Total de Ventas](https://latex.codecogs.com/png.latex?\text{Total\ de\ Ventas}=\sum\text{Fact\_Ventas[Precio\ Venta\ sin\ IGV]})
