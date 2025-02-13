@@ -114,5 +114,5 @@ Calculamos el porcentaje de Pareto para conocer el porcentaje de contribución d
 
 Aplicando la regla de Pareto, observamos que el **20.42%** de los modelos representan la mayor parte de la ganancia generada en nuestro modelo de negocio.
 
-<img src="/images/06.jpg" alt="Cantidad de clientes" width="600">
+<img src="/images/06.jpg" alt="Cantidad de clientes" width="650">
 
