@@ -102,7 +102,7 @@ El porcentaje de Pareto calcula la contribución relativa de cada elemento en un
 El porcentaje de Pareto se calcula con:
 
 $$
-\%Pareto = \frac{\text{Valor de cada elemento}}{\text{Total de todos los elementos}} \times 100
+\%Pareto = \frac{\text{Valor de cada elemento}}{\text{Total de todos los elementos}}\times 100
 $$
               
 ##### **¿Por qué es útil?**
