@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo desarrollar un dashboard interactivo en Power 
 
 ![](/images/01.jpg)
 
-<img src="/images/01.jpg" alt="Descripción de la imagen" width="400">
+<img src="/images/01.jpg" alt="Foto de concesionaria" width="600">
 
 ### 🔥 Características Clave
 
@@ -24,14 +24,14 @@ Calculamos el *Total de Ventas* para conocer el rendimiento comercial sin consid
 Total de Ventas = SUM(Fact_Ventas[Precio Venta sin IGV])  
 ```
 
-![](/images/total_ventas.jpg)
+<img src="/images/total_ventas.jpg" alt="Total de ventas" width="400">
 
 🧑‍**CANTIDAD DE CLIENTES:** Esta métrica calcula el número total de clientes únicos que han realizado compras. Es fundamental para analizar el alcance del negocio y la fidelización de clientes.
 
 ```DAX
 Cantidad de Clientes_FACT_VENTAS = DISTINCTCOUNT(Fact_Ventas[Cliente])
 ```
-![](/images/cant_clientes.jpg)
+<img src="/images/cant_clientes.jpg" alt="Cantidad de clientes" width="400">
 
 📊**Crecimiento Año contra Año (YoY Growth):** 
 Para analizar el desempeño de las ventas a lo largo del tiempo, calculamos el crecimiento interanual **(YoY - Year over Year)** en porcentaje.
