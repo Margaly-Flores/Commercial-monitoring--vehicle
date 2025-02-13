@@ -41,7 +41,7 @@ Para analizar el desempeño de las ventas a lo largo del tiempo, calculamos el c
 ```DAX
 YoYear = VAR VentasLY = CALCULATE([Total de Ventas], DATEADD(Dim_Fechas[Date],-1,YEAR)) RETURN DIVIDE([Total de Ventas] - VentasLY, VentasLY,0)
 ```
-<img src="/images/YoY.jpg" alt="Cantidad de clientes" width="300">
+<img src="/images/YoY.jpg" alt="Cantidad de clientes" width="250">
 
 Calculamos una nueva medida. 
 📊**Cumplimiento:** 
@@ -71,7 +71,7 @@ Crecimiento Trimestral = [Total de Ventas] - [Venta del Trimestre del Año Pasad
 
 ```
 
-<img src="/images/02.jpg" alt="Cantidad de clientes" width="400">
+<img src="/images/02.jpg" alt="Cantidad de clientes" width="500">
 
 
 📊 **Segmentación de Clientes:** 
