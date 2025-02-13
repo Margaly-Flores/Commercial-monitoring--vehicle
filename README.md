@@ -76,7 +76,7 @@ Crecimiento Trimestral = [Total de Ventas] - [Venta del Trimestre del Año Pasad
 📊 **Segmentación de Clientes:** 
 Una visualización clave para el análisis de la ruta de mercado es la segmentación de clientes, ya que permite identificar patrones de compra.
 
-<img src="/images/03.jpg" alt="Cantidad de clientes" width="500">
+<img src="/images/03.jpg" alt="Cantidad de clientes" width="300">
 
 📊 **Comparación de Ventas por Sede:** Para analizar el rendimiento de cada ubicación, realizamos un gráfico de barras agrupadas que compara las ventas por sede. Esta visualización permite identificar qué sucursales tienen un mejor desempeño y detectar oportunidades de mejora. 
 
