@@ -8,6 +8,8 @@ Este proyecto tiene como objetivo desarrollar un dashboard interactivo en Power 
 
 ![](/images/01.jpg)
 
+<img src="/images/01.jpg" alt="Descripción de la imagen" width="500" height="300">
+
 ### 🔥 Características Clave
 
 
