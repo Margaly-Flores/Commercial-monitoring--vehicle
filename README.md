@@ -8,7 +8,6 @@ Este proyecto tiene como objetivo desarrollar un dashboard interactivo en Power 
 
 ![](/images/01.jpg)
 
-<img src="/images/01.jpg" alt="Descripción de la imagen" width="500" height="300">
 
 ### 🔥 Características Clave
 
@@ -46,7 +45,7 @@ YoYear = VAR VentasLY = CALCULATE([Total de Ventas], DATEADD(Dim_Fechas[Date],-1
 ![](/images/YoY.jpg)
 
 Calculamos una nueva medida. 
-📊**Cumplimiento: ** 
+📊**Cumplimiento:** 
 Indica qué porcentaje del objetivo de ventas se ha alcanzado en comparación con el presupuesto establecido. Es una métrica clave para evaluar el desempeño comercial. 
 
 -	**Si el resultado es 100%,** significa que las ventas alcanzaron exactamente el presupuesto.
@@ -101,12 +100,11 @@ El porcentaje de Pareto calcula la contribución relativa de cada elemento en un
 ##### **Fórmula General**
 
 El porcentaje de Pareto se calcula con:
-   
+
 $$
 \%Pareto = \frac{\text{Valor de cada elemento}}{\text{Total de todos los elementos}} \times 100
 $$
-                
-
+              
 ##### **¿Por qué es útil?**
 En este contexto, nos ayuda a identificar cuáles modelos son los más rentables en relación con las ventas totales. Si un modelo genera un porcentaje alto de las ventas, es posible enfocar más esfuerzos en promover ese modelo o en mantener su disponibilidad en inventario. 
 
