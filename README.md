@@ -29,7 +29,7 @@ Total de Ventas = SUM(Fact_Ventas[Precio Venta sin IGV])
 ```DAX
 Cantidad de Clientes_FACT_VENTAS = DISTINCTCOUNT(Fact_Ventas[Cliente])
 ```
-<img src="/images/cant_clientes.jpg" alt="Cantidad de clientes" width="300">
+<img src="/images/cant_clientes.jpg" alt="Cantidad de clientes" width="250">
 
 📊**Crecimiento Año contra Año (YoY Growth):** 
 Para analizar el desempeño de las ventas a lo largo del tiempo, calculamos el crecimiento interanual **(YoY - Year over Year)** en porcentaje.
@@ -41,7 +41,7 @@ Para analizar el desempeño de las ventas a lo largo del tiempo, calculamos el c
 ```DAX
 YoYear = VAR VentasLY = CALCULATE([Total de Ventas], DATEADD(Dim_Fechas[Date],-1,YEAR)) RETURN DIVIDE([Total de Ventas] - VentasLY, VentasLY,0)
 ```
-![](/images/YoY.jpg)
+<img src="/images/YoY.jpg" alt="Cantidad de clientes" width="300">
 
 Calculamos una nueva medida. 
 📊**Cumplimiento:** 
@@ -54,7 +54,8 @@ Indica qué porcentaje del objetivo de ventas se ha alcanzado en comparación co
 ```DAX
 Cumplimiento = DIVIDE([Total de Ventas], [Total PPTO])
 ```
-![](/images/cump.jpg)
+
+<img src="/images/cump.jpg" alt="Cantidad de clientes" width="300">
 
 📊 **Crecimiento Trimestral:** 
 Para analizar el desempeño de las ventas en periodos más cortos, realizamos una comparación de cada trimestre con el trimestre anterior del año pasado. 
@@ -69,7 +70,8 @@ Venta del Trimestre del Año Pasado = CALCULATE([Total de Ventas],PARALLELPERIOD
 Crecimiento Trimestral = [Total de Ventas] - [Venta del Trimestre del Año Pasado]
 
 ```
-![](/images/02.jpg)
+
+<img src="/images/02.jpg" alt="Cantidad de clientes" width="400">
 
 
 📊 **Segmentación de Clientes:** 
