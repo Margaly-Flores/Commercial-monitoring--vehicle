@@ -73,20 +73,19 @@ Crecimiento Trimestral = [Total de Ventas] - [Venta del Trimestre del Año Pasad
 
 <img src="/images/02.jpg" alt="Cantidad de clientes" width="500">
 
-
 📊 **Segmentación de Clientes:** 
 Una visualización clave para el análisis de la ruta de mercado es la segmentación de clientes, ya que permite identificar patrones de compra.
 
-![](/images/03.jpg)
+<img src="/images/03.jpg" alt="Cantidad de clientes" width="500">
 
 📊 **Comparación de Ventas por Sede:** Para analizar el rendimiento de cada ubicación, realizamos un gráfico de barras agrupadas que compara las ventas por sede. Esta visualización permite identificar qué sucursales tienen un mejor desempeño y detectar oportunidades de mejora. 
 
-![](/images/04.jpg)
+<img src="/images/04.jpg" alt="Cantidad de clientes" width="500">
 
 📊 **Comparación del Porcentaje de Ventas por Marca en Cada Trimestre:** 
 Para analizar el desempeño de las distintas marcas de vehículos, realizamos un gráfico de comparación del porcentaje de ventas por marca en cada trimestre. Esta visualización nos permite identificar tendencias y evaluar la participación de mercado de cada fabricante a lo largo del tiempo.
 
-![](/images/05.jpg)
+<img src="/images/05.jpg" alt="Cantidad de clientes" width="500">
 
 Ahora crearemos un gráfico de Pareto, pero antes, explicaré la teoría fundamental para entender su significado y aplicación.
 
@@ -115,5 +114,5 @@ Calculamos el porcentaje de Pareto para conocer el porcentaje de contribución d
 
 Aplicando la regla de Pareto, observamos que el **20.42%** de los modelos representan la mayor parte de la ganancia generada en nuestro modelo de negocio.
 
-![](/images/06.jpg)
+<img src="/images/06.jpg" alt="Cantidad de clientes" width="600">
 
