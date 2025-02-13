@@ -12,7 +12,8 @@ Este proyecto tiene como objetivo desarrollar un dashboard interactivo en Power 
 
 
 #### 📊 **Cálculo de métricas clave: **
-	Determinación de indicadores de rendimiento, segmentados por año: 
+
+Determinación de indicadores de rendimiento, segmentados por año: 
 
 📌**TOTAL DE VENTAS TOTALES:** 
 Calculamos el *Total de Ventas* para conocer el rendimiento comercial sin considerar impuestos.
