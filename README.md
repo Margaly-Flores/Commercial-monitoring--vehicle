@@ -101,9 +101,7 @@ El porcentaje de Pareto calcula la contribución relativa de cada elemento en un
 
 El porcentaje de Pareto se calcula con:
 
-$$
-\%Pareto = \frac{\text{Valor de cada elemento}}{\text{Total de todos los elementos}}\times 100
-$$
+![](/images/par.jpg)
               
 ##### **¿Por qué es útil?**
 En este contexto, nos ayuda a identificar cuáles modelos son los más rentables en relación con las ventas totales. Si un modelo genera un porcentaje alto de las ventas, es posible enfocar más esfuerzos en promover ese modelo o en mantener su disponibilidad en inventario. 
