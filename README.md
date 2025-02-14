@@ -11,7 +11,7 @@ Este proyecto tiene como objetivo desarrollar un dashboard interactivo en Power 
 ### 🔥 Características Clave
 
 
-#### 📊 **Cálculo de métricas clave: **
+#### 📊 **Cálculo de métricas clave:**
 
 Determinación de indicadores de rendimiento, segmentados por año: 
 
