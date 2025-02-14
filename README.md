@@ -90,7 +90,7 @@ Para analizar el desempeño de las distintas marcas de vehículos, realizamos un
 
 Ahora crearemos un gráfico de Pareto, pero antes, explicaré la teoría fundamental para entender su significado y aplicación.
 
-#### **¿Qué es la regla de Pareto? **
+### **¿Qué es la regla de Pareto?**
 
 La regla de Pareto (también conocida como la ley 80/20) establece que, en muchos casos, aproximadamente el 80% de los efectos provienen del 20% de las causas.
 
