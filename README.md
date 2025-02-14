@@ -116,6 +116,11 @@ Aplicando la regla de Pareto, observamos que el **20.32%** de los modelos repres
 
 <img src="/images/06.jpg" alt="Cantidad de clientes" width="650">
 
+### 📈 Dashboard
+----
+
+![](/images/07.jpg)
+
 ### 📌 Conclusiones
 ----
 El análisis de ventas de la concesionaria de vehículos ha permitido identificar tendencias clave en el desempeño comercial y la segmentación de clientes.
@@ -138,3 +143,7 @@ El análisis de ventas de la concesionaria de vehículos ha permitido identifica
 
 
 *Este informe proporciona una visión clara del rendimiento comercial de la concesionaria, permitiendo tomar decisiones estratégicas informadas para mantener el crecimiento y optimizar la rentabilidad.* 🚀📊
+
+### 📌 Accede al informe completo aquí:
+---
+🔗 [Ver Informe en Power BI](https://app.powerbi.com/view?r=eyJrIjoiODY5ZTVkMTMtMDllZi00Y2MxLThmM2YtMjVkNmI0OWEwNDFkIiwidCI6IjFlYmE0NDNmLTIzZTUtNDUzNC05MGQxLTA5NzZhYWJlODZhYyIsImMiOjR9)
