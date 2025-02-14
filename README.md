@@ -44,6 +44,7 @@ YoYear = VAR VentasLY = CALCULATE([Total de Ventas], DATEADD(Dim_Fechas[Date],-1
 <img src="/images/YoY.jpg" alt="Cantidad de clientes" width="250">
 
 Calculamos una nueva medida. 
+
 📊**Cumplimiento:** 
 Indica qué porcentaje del objetivo de ventas se ha alcanzado en comparación con el presupuesto establecido. Es una métrica clave para evaluar el desempeño comercial. 
 
