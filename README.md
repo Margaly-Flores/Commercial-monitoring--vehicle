@@ -112,7 +112,25 @@ Calculamos el porcentaje de Pareto para conocer el porcentaje de contribución d
 %Pareto = DIVIDE([ValorModelo], [Total de Venta Modelo])
 ```
 
-Aplicando la regla de Pareto, observamos que el **20.42%** de los modelos representan la mayor parte de la ganancia generada en nuestro modelo de negocio.
+Aplicando la regla de Pareto, observamos que el **20.32%** de los modelos representan la mayor parte de la ganancia generada en nuestro modelo de negocio.
 
 <img src="/images/06.jpg" alt="Cantidad de clientes" width="650">
 
+### 📌 Conclusiones
+----
+El análisis de ventas de la concesionaria de vehículos ha permitido identificar tendencias clave en el desempeño comercial y la segmentación de clientes.
+
+- 📊 **Ventas Totales:** Se registró un total de ventas de **359.55M**, lo que refleja un desempeño sólido en el mercado.
+- 👥 **Segmentación de Clientes:** La mayor parte de los clientes son personas naturales, lo que ha sido un factor clave en el crecimiento de las ventas.
+- 🎯 **Cumplimiento del Objetivo: **Se logró un **100.08%** del presupuesto de ventas, superando ligeramente la meta establecida.
+- 📈 **Crecimiento Año contra Año (YoY):** Se observó un incremento del **6.70%** en las ventas respecto al año anterior, lo que indica una tendencia positiva en la demanda.
+- 🚗 **Participación de Marcas:** Toyota tiene una participación destacada en las ventas, consolidándose como una marca clave en la concesionaria.
+- 🔍 **Análisis de Pareto: **El **20.32%** de los modelos generan el 80% de la ganancia, validando la Regla de Pareto y destacando la importancia de enfocarse en estos modelos estratégicos.
+#### 📢 Recomendaciones:
+---
+✔️ Continuar potenciando estrategias de venta para el segmento de personas naturales.
+✔️ Analizar factores que impulsaron el crecimiento del 6.70% y replicar estrategias exitosas.
+✔️ Enfocar esfuerzos comerciales en los modelos más rentables según el análisis de Pareto.
+✔️ Monitorear la participación de las marcas para optimizar la oferta y maximizar ganancias.
+
+*Este informe proporciona una visión clara del rendimiento comercial de la concesionaria, permitiendo tomar decisiones estratégicas informadas para mantener el crecimiento y optimizar la rentabilidad.* 🚀📊
