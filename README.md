@@ -129,8 +129,12 @@ El análisis de ventas de la concesionaria de vehículos ha permitido identifica
 #### 📢 Recomendaciones:
 ---
 ✔️ Continuar potenciando estrategias de venta para el segmento de personas naturales.
+
 ✔️ Analizar factores que impulsaron el crecimiento del 6.70% y replicar estrategias exitosas.
+
 ✔️ Enfocar esfuerzos comerciales en los modelos más rentables según el análisis de Pareto.
+
 ✔️ Monitorear la participación de las marcas para optimizar la oferta y maximizar ganancias.
+
 
 *Este informe proporciona una visión clara del rendimiento comercial de la concesionaria, permitiendo tomar decisiones estratégicas informadas para mantener el crecimiento y optimizar la rentabilidad.* 🚀📊
