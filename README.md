@@ -131,7 +131,7 @@ El análisis de ventas de la concesionaria de vehículos ha permitido identifica
 - 🎯 **Cumplimiento del Objetivo:** Se logró un **100.08%** del presupuesto de ventas, superando ligeramente la meta establecida.
 - 📈 **Crecimiento Año contra Año (YoY):** Se observó un incremento del **6.70%** en las ventas respecto al año anterior, lo que indica una tendencia positiva en la demanda.
 - 🚗 **Participación de Marcas:** Toyota tiene una participación destacada en las ventas, consolidándose como una marca clave en la concesionaria.
-- 🔍 **Análisis de Pareto: **El **20.32%** de los modelos generan el 80% de la ganancia, validando la Regla de Pareto y destacando la importancia de enfocarse en estos modelos estratégicos.
+- 🔍 **Análisis de Pareto:** El **20.32%** de los modelos generan el 80% de la ganancia, validando la Regla de Pareto y destacando la importancia de enfocarse en estos modelos estratégicos.
 #### 📢 Recomendaciones:
 ---
 ✔️ Continuar potenciando estrategias de venta para el segmento de personas naturales.
